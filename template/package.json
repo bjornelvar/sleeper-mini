@@ -5,7 +5,7 @@
   "scripts": {
     "ios": "react-native run-ios --no-packager",
     "android": "react-native run-android --no-packager --port 9000",
-    "start": "react-native webpack-start --webpackConfig node_modules/@sleeperhq/mini-core/webpack.config.js --port 9000 --send-events node_modules/@sleeperhq/mini-core/src/plugins/send_events.mjs",
+    "start": "react-native webpack-start --webpackConfig node_modules/@sleeperhq/mini-core/rspack.config.js --port 9000 --send-events node_modules/@sleeperhq/mini-core/src/plugins/send_events.mjs",
     "test": "jest",
     "lint": "eslint .",
     "postinstall": "patch-package && yarn preload-packages",
@@ -15,12 +15,11 @@
     "@babel/plugin-transform-runtime": "7.25.9",
     "@babel/runtime": "7.26.0",
     "@shopify/flash-list": "1.7.6",
-    "@sleeperhq/mini-core": "4.0.0",
+    "@sleeperhq/mini-core": "4.0.0-c",
     "he": "1.2.0",
     "moment-timezone": "0.5.46",
     "react": "18.3.1",
     "react-native": "0.77.2",
-    "react-native-interactable": "2.0.1",
     "react-native-gesture-handler": "2.22.0",
     "react-native-svg": "15.11.2",
     "react-native-webview": "13.13.5",
@@ -35,6 +34,7 @@
     "@react-native-community/cli-platform-apple": "15.0.1",
     "@react-native-community/cli-platform-ios": "15.0.1",
     "@react-native-community/eslint-config": "2.0.0",
+    "@react-native/babel-preset": "0.77.2",
     "@types/react": "18.2.31",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
@@ -50,5 +50,6 @@
   },
   "engines": {
     "node": "20.10.0"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }

@@ -7,5 +7,5 @@
 
 module.exports = {
   assets: ['./assets/fonts/'],
-  commands: require('@callstack/repack/commands/webpack'),
+  commands: require('@callstack/repack/commands/rspack'),
 };
