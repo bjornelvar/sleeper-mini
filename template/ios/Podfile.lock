@@ -4,7 +4,7 @@ PODS:
   - boost (1.84.0)
   - BVLinearGradient (2.8.3):
     - React-Core
-  - callstack-repack (5.0.7-c):
+  - callstack-repack (5.0.9):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1255,7 +1255,7 @@ PODS:
     - ReactCommon/turbomodule/core
   - react-native-netinfo (11.3.2):
     - React-Core
-  - react-native-tcp-socket (6.3.0):
+  - react-native-tcp-socket (6.0.6):
     - CocoaAsyncSocket
     - React-Core
   - react-native-turbo-image (1.22.3):
@@ -2028,7 +2028,7 @@ SPEC CHECKSUMS:
   APNGKit: eb7e111277527cfd47636f797c9c8e7aab5d9601
   boost: 7e761d76ca2ce687f7cc98e698152abd03a18f90
   BVLinearGradient: 880f91a7854faff2df62518f0281afb1c60d49a3
-  callstack-repack: 514c543eb8d418cf74bcc292f873a3153bd227cb
+  callstack-repack: 2f6da9855832b6b5a32aede6c2367883b424c5c3
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   Delegate: 0ff4467868095239ff578ab531efd8af46e62881
   DoubleConversion: cb417026b2400c8f53ae97020b2be961b59470cb
@@ -2070,7 +2070,7 @@ SPEC CHECKSUMS:
   React-Mapbuffer: 0d55aa10e3dcbc51121df490f1ffff427d68e6f2
   React-microtasksnativemodule: c2bc0e0f39308276c073feaca6a0dd453d4172c5
   react-native-netinfo: 076df4f9b07f6670acf4ce9a75aac8d34c2e2ccc
-  react-native-tcp-socket: feb47ef87c6f598ec2a85b7534a279282ce6f925
+  react-native-tcp-socket: e724380c910c2e704816ec817ed28f1342246ff7
   react-native-turbo-image: f0cc8e91bf7117c571cf31780613c0c7b1918af9
   react-native-webview: af6774e34b542209d861eba069bd0ec684a569f9
   React-nativeconfig: ecf4dc92c40b97e2b3f0c619938f78bfd6507b08

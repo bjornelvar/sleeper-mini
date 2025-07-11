@@ -1105,9 +1105,9 @@
   resolved "https://registry.yarnpkg.com/@callstack/repack-plugin-reanimated/-/repack-plugin-reanimated-5.1.1.tgz#4468c8d8d85e140b19ed920dea79d4a0c3f02bf8"
   integrity sha512-9yehOxflu24PkJK0x618PJO6W/Nr3gdo0BE9H/Cb+8rsmd/9Cj2FnL4gHaoTHuz0Awlkt+VqzHPFcX1Azvhm+Q==
 
-"@callstack/repack@github:blitzstudios/repack#callstack-repack-v5.0.7-c-gitpkg":
-  version "5.0.7-c"
-  resolved "https://codeload.github.com/blitzstudios/repack/tar.gz/3d8b617d0b6c3d98816703f7955951a86850e958"
+"@callstack/repack@github:blitzstudios/repack#callstack-repack-v5.0.9-gitpkg":
+  version "5.0.9"
+  resolved "https://codeload.github.com/blitzstudios/repack/tar.gz/3fe250ff4414491979c5e8d4706f42482dc2ea6e"
   dependencies:
     "@callstack/repack-dev-server" blitzstudios/repack.git#callstack-repack-dev-server-v5.0.7-c-gitpkg
     "@discoveryjs/json-ext" "^0.5.7"
@@ -1125,7 +1125,7 @@
     memfs "^4.11.1"
     mime-types "^2.1.35"
     pretty-format "^26.6.2"
-    react-native-tcp-socket "^6.0.6"
+    react-native-tcp-socket "6.0.6"
     react-refresh "^0.14.0"
     schema-utils "^4.2.0"
     shallowequal "^1.1.0"
@@ -2154,14 +2154,14 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@sleeperhq/mini-core@4.0.0-c":
-  version "4.0.0-c"
-  resolved "https://registry.yarnpkg.com/@sleeperhq/mini-core/-/mini-core-4.0.0-c.tgz#d7bbbd1c7d50d2cfd432cffabb35cca5c2856478"
-  integrity sha512-cn6j2ahwgnzEiW8Fu6bDb/g/sJ4deH1lU7ZdLkLw3SgsYdqednhOwduN7p/jcYG5Lii38gYdIMwALH/iU7qtjg==
+"@sleeperhq/mini-core@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@sleeperhq/mini-core/-/mini-core-4.0.1.tgz#0915d2647ae993b07617eb3d71e9303402c21da9"
+  integrity sha512-6BYBIzKLAKwoe+KuymK5lYJr2bCv3lPdigUlEC7WGOz5qhgssiYiZQF834NzLJwFhU65cdjFRkixpm1E7ahAvg==
   dependencies:
     "@babel/plugin-transform-runtime" "7.25.9"
     "@babel/runtime" "7.26.0"
-    "@callstack/repack" blitzstudios/repack.git#callstack-repack-v5.0.7-c-gitpkg
+    "@callstack/repack" blitzstudios/repack.git#callstack-repack-v5.0.9-gitpkg
     "@callstack/repack-plugin-reanimated" "5.1.1"
     "@react-native-community/cli" "15.0.1"
     "@react-native-community/cli-platform-android" "15.0.1"
@@ -8091,10 +8091,10 @@ react-native-svg@15.11.2:
     css-tree "^1.1.3"
     warn-once "0.1.1"
 
-react-native-tcp-socket@^6.0.6:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-tcp-socket/-/react-native-tcp-socket-6.3.0.tgz#fc2b02cc10c31978080257b56253cf0bf7d10346"
-  integrity sha512-NthR04myL5IGL4q+2oCjmAx7OMqEgcjUJk8RExAwNjK/164upCP7Pn2Msno5ZTGd3wL6HuEG8d7T2d8f22N+0A==
+react-native-tcp-socket@6.0.6:
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-tcp-socket/-/react-native-tcp-socket-6.0.6.tgz#8e124e5d347b0ef4ea6dc6d38b8f1771f47bfbce"
+  integrity sha512-FIFSP+3S5OnJRjl7ddD7G9NfVbVEiQ4WROEmOBei1cKE0pDz2R/Kcm4XkFlnMd5sdoG6Wbv830Yd/ZsmOjkEKw==
   dependencies:
     buffer "^5.4.3"
     eventemitter3 "^4.0.7"
