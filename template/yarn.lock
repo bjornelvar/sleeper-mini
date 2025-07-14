@@ -1105,7 +1105,7 @@
   resolved "https://registry.yarnpkg.com/@callstack/repack-plugin-reanimated/-/repack-plugin-reanimated-5.1.1.tgz#4468c8d8d85e140b19ed920dea79d4a0c3f02bf8"
   integrity sha512-9yehOxflu24PkJK0x618PJO6W/Nr3gdo0BE9H/Cb+8rsmd/9Cj2FnL4gHaoTHuz0Awlkt+VqzHPFcX1Azvhm+Q==
 
-"@callstack/repack@blitzstudios/repack.git#callstack-repack-v5.0.9-gitpkg":
+"@callstack/repack@github:blitzstudios/repack#callstack-repack-v5.0.9-gitpkg":
   version "5.0.9"
   resolved "https://codeload.github.com/blitzstudios/repack/tar.gz/3fe250ff4414491979c5e8d4706f42482dc2ea6e"
   dependencies:
@@ -2154,10 +2154,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@sleeperhq/mini-core@4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@sleeperhq/mini-core/-/mini-core-4.0.1.tgz#0915d2647ae993b07617eb3d71e9303402c21da9"
-  integrity sha512-6BYBIzKLAKwoe+KuymK5lYJr2bCv3lPdigUlEC7WGOz5qhgssiYiZQF834NzLJwFhU65cdjFRkixpm1E7ahAvg==
+"@sleeperhq/mini-core@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@sleeperhq/mini-core/-/mini-core-4.0.3.tgz#e356c747690467b8ca1df3045b7942b9507889ae"
+  integrity sha512-0tEuMqEnckMZw/bDlAIgU6eAdw/Zl+EAoGL5aqfMUjILPyl8xEUDMjDDpt+jzWbxs2KVn7GUKKekPEehmiJf7g==
   dependencies:
     "@babel/plugin-transform-runtime" "7.25.9"
     "@babel/runtime" "7.26.0"
@@ -8026,9 +8026,9 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.3.1.tgz#e83557dc12eae63a99e003a46388b1dcbb44db7e"
   integrity sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==
 
-"react-native-fast-image@https://github.com/blitzstudios/react-native-fast-image.git#release/1.4":
+"react-native-fast-image@git+https://github.com/blitzstudios/react-native-fast-image.git#release/1.4":
   version "8.5.11"
-  resolved "https://github.com/blitzstudios/react-native-fast-image.git#8e512296de8748aeb1e801015a3805b64e1ffbc3"
+  resolved "git+https://github.com/blitzstudios/react-native-fast-image.git#8e512296de8748aeb1e801015a3805b64e1ffbc3"
 
 react-native-gesture-handler@2.22.0:
   version "2.22.0"
@@ -8067,7 +8067,7 @@ react-native-reanimated@3.17.1:
     invariant "^2.2.4"
     react-native-is-edge-to-edge "1.1.6"
 
-react-native-rename@blitzstudios/react-native-rename.git#react-native-rename-v3.2.17-gitpkg:
+"react-native-rename@github:blitzstudios/react-native-rename#react-native-rename-v3.2.17-gitpkg":
   version "3.2.17"
   resolved "https://codeload.github.com/blitzstudios/react-native-rename/tar.gz/be564d20742ee60c297230ff53edfedf2d650f2b"
   dependencies:
