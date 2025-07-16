@@ -4,7 +4,7 @@ PODS:
   - boost (1.84.0)
   - BVLinearGradient (2.8.3):
     - React-Core
-  - callstack-repack (5.0.9):
+  - callstack-repack (5.1.0):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -2028,7 +2028,7 @@ SPEC CHECKSUMS:
   APNGKit: eb7e111277527cfd47636f797c9c8e7aab5d9601
   boost: 7e761d76ca2ce687f7cc98e698152abd03a18f90
   BVLinearGradient: 880f91a7854faff2df62518f0281afb1c60d49a3
-  callstack-repack: 2f6da9855832b6b5a32aede6c2367883b424c5c3
+  callstack-repack: d966880175978ea616db5204002d20a622629a84
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   Delegate: 0ff4467868095239ff578ab531efd8af46e62881
   DoubleConversion: cb417026b2400c8f53ae97020b2be961b59470cb
