@@ -15,11 +15,11 @@
     "@babel/plugin-transform-runtime": "7.25.9",
     "@babel/runtime": "7.26.0",
     "@shopify/flash-list": "1.7.6",
-    "@sleeperhq/mini-core": "4.0.5",
+    "@sleeperhq/mini-core": "4.0.7",
     "he": "1.2.0",
     "moment-timezone": "0.5.46",
     "react": "18.3.1",
-    "react-native": "0.77.2",
+    "react-native": "0.77.3",
     "react-native-gesture-handler": "2.22.0",
     "react-native-svg": "15.11.2",
     "react-native-webview": "13.13.5",
@@ -34,7 +34,7 @@
     "@react-native-community/cli-platform-apple": "15.0.1",
     "@react-native-community/cli-platform-ios": "15.0.1",
     "@react-native-community/eslint-config": "2.0.0",
-    "@react-native/babel-preset": "0.77.2",
+    "@react-native/babel-preset": "0.77.3",
     "@types/react": "18.2.31",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
@@ -52,7 +52,7 @@
     "node": "20.10.0"
   },
   "resolutions": {
-    "@react-native/dev-middleware": "0.77.2"
+    "@react-native/dev-middleware": "0.77.3"
   },
   "packageManager": "yarn@1.22.22"
 }
