@@ -1,5 +1,5 @@
 # Configuration values
-$deployment_target = '15.1'
+$deployment_target = '15.5'
 ENV['RCT_NEW_ARCH_ENABLED'] = "0"
 
 # Resolve react_native_pods.rb with node to allow for hoisting
