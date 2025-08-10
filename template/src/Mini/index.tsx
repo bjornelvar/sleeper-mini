@@ -15,7 +15,7 @@ const Mini = (props: OwnProps) => {
   return (
     <RN.View style={styles.container}>
       <Sleeper.Text style={styles.text}>
-        Hello {context?.user?.display_name}!
+        Hello {context?.user?.display_name}!!!!!!!!!!!!!!
       </Sleeper.Text>
       <Sleeper.Text style={styles.text}>
         Open app.json and select a sample to learn what API features are
@@ -23,7 +23,7 @@ const Mini = (props: OwnProps) => {
       </Sleeper.Text>
       <Sleeper.Text style={styles.text}>
         When you're ready to get started, edit this file (src/Mini/index.tsx)
-        and add your own code.
+        and add your own code. Adding code lol
       </Sleeper.Text>
       <Sleeper.Text style={styles.text}>
         Feel free to copy any package from mini_packages.json to this project's

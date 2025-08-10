@@ -1043,20 +1043,7 @@
     "@babel/parser" "^7.27.2"
     "@babel/types" "^7.27.1"
 
-"@babel/traverse--for-generate-function-map@npm:@babel/traverse@^7.25.3":
-  version "7.28.0"
-  resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.28.0.tgz#518aa113359b062042379e333db18380b537e34b"
-  integrity sha512-mGe7UK5wWyh0bKRfupsUchrQGqvDbZDbKJw+kcRGSmdHVYrv+ltd0pnpDTVpiTqnaBru9iEvA8pz8W46v0Amwg==
-  dependencies:
-    "@babel/code-frame" "^7.27.1"
-    "@babel/generator" "^7.28.0"
-    "@babel/helper-globals" "^7.28.0"
-    "@babel/parser" "^7.28.0"
-    "@babel/template" "^7.27.2"
-    "@babel/types" "^7.28.0"
-    debug "^4.3.1"
-
-"@babel/traverse@^7.1.0", "@babel/traverse@^7.25.3", "@babel/traverse@^7.25.9", "@babel/traverse@^7.27.1", "@babel/traverse@^7.27.3", "@babel/traverse@^7.28.0", "@babel/traverse@^7.7.0", "@babel/traverse@^7.7.4":
+"@babel/traverse--for-generate-function-map@npm:@babel/traverse@^7.25.3", "@babel/traverse@^7.1.0", "@babel/traverse@^7.25.3", "@babel/traverse@^7.25.9", "@babel/traverse@^7.27.1", "@babel/traverse@^7.27.3", "@babel/traverse@^7.28.0", "@babel/traverse@^7.7.0", "@babel/traverse@^7.7.4":
   version "7.28.0"
   resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.28.0.tgz#518aa113359b062042379e333db18380b537e34b"
   integrity sha512-mGe7UK5wWyh0bKRfupsUchrQGqvDbZDbKJw+kcRGSmdHVYrv+ltd0pnpDTVpiTqnaBru9iEvA8pz8W46v0Amwg==
@@ -1105,7 +1092,7 @@
   resolved "https://registry.yarnpkg.com/@callstack/repack-plugin-reanimated/-/repack-plugin-reanimated-5.1.1.tgz#4468c8d8d85e140b19ed920dea79d4a0c3f02bf8"
   integrity sha512-9yehOxflu24PkJK0x618PJO6W/Nr3gdo0BE9H/Cb+8rsmd/9Cj2FnL4gHaoTHuz0Awlkt+VqzHPFcX1Azvhm+Q==
 
-"@callstack/repack@github:blitzstudios/repack#callstack-repack-v5.1.0-gitpkg":
+"@callstack/repack@blitzstudios/repack.git#callstack-repack-v5.1.0-gitpkg":
   version "5.1.0"
   resolved "https://codeload.github.com/blitzstudios/repack/tar.gz/9d4f678d616a72aa697c2e95e909e5a8d100cfd1"
   dependencies:
@@ -8572,9 +8559,9 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.3.1.tgz#e83557dc12eae63a99e003a46388b1dcbb44db7e"
   integrity sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==
 
-"react-native-fast-image@git+https://github.com/blitzstudios/react-native-fast-image.git#release/1.4":
+"react-native-fast-image@https://github.com/blitzstudios/react-native-fast-image.git#release/1.4":
   version "8.5.11"
-  resolved "git+https://github.com/blitzstudios/react-native-fast-image.git#8e512296de8748aeb1e801015a3805b64e1ffbc3"
+  resolved "https://github.com/blitzstudios/react-native-fast-image.git#8e512296de8748aeb1e801015a3805b64e1ffbc3"
 
 react-native-gesture-handler@2.22.0:
   version "2.22.0"
@@ -8613,7 +8600,7 @@ react-native-reanimated@3.17.5:
     invariant "^2.2.4"
     react-native-is-edge-to-edge "1.1.7"
 
-"react-native-rename@github:blitzstudios/react-native-rename#react-native-rename-v3.2.17-gitpkg":
+react-native-rename@blitzstudios/react-native-rename.git#react-native-rename-v3.2.17-gitpkg:
   version "3.2.17"
   resolved "https://codeload.github.com/blitzstudios/react-native-rename/tar.gz/be564d20742ee60c297230ff53edfedf2d650f2b"
   dependencies:
